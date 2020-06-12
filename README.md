@@ -8,7 +8,7 @@ This is a short introduction about our product.
   ---
   The features of Audio Channeling as per seating arrangement, Real and immersive live experience with live webcam feed
 and feature of Video filters with an intuitive and simplistic UI which will be versatile for all age groups, along with all
-the other features that existing solutions like Netflix Party, Facebook Live Party and other applications gives our product and upper edge.
+the other features that existing solutions like Netflix Party, Facebook Live Party and other applications gives our product an upper edge.
 
 Currently for prototype version, we have planned a web application that makes a screenshot of users desktop every second. 
 After this it encodes it as videostream and sent this stream to Wowza-server. 
