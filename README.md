@@ -1,7 +1,7 @@
 # QuaranTeam
 BRINGS PEOPLE TOGETHER
 ---
-**Link for Demo Video : https://drive.google.com/file/d/1KAr1JCMPa00k7jnSWx793yVU2V_2sBL0/view?usp=sharing**
+**Link for Product Concept Video : https://drive.google.com/file/d/1KAr1JCMPa00k7jnSWx793yVU2V_2sBL0/view?usp=sharing**
 
 
 ![](https://github.com/GTron-1729/flask-1/blob/master/finqt%20(2).png)
@@ -45,6 +45,7 @@ the other features that existing solutions like Netflix Party, Facebook Live Par
 - React
 - WebRTC
 - express.js
+- Adobe XD/Premier Pro
 
 
 # FUTURE DEVELOPEMENTS
