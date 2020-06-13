@@ -3,6 +3,8 @@ BRINGS PEOPLE TOGETHER
 ---
 ![](https://github.com/GTron-1729/flask-1/blob/master/finqt%20(2).png)
 
+**Link for Demo Video : https://drive.google.com/file/d/1KAr1JCMPa00k7jnSWx793yVU2V_2sBL0/view?usp=sharing **
+
   About QuaranTeam:
   ---
   The features of Audio Channeling are as per the seating arrangement. Real and immersive live experience with live webcam feed
