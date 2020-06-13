@@ -13,3 +13,15 @@ the other features that existing solutions like Netflix Party, Facebook Live Par
 Currently for prototype version, we have planned a web application that makes a screenshot of users desktop every second. 
 After this it encodes it as videostream and sent this stream to Wowza-server. 
 Wowza is able to restream this stream to any number of users, that can access the stream via flash-player.
+
+
+# IDEA
+
+- Web App
+- Stream Together
+- Text Chat
+- Audio Chat
+- Video Chat
+
+
+
